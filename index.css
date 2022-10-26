@@ -1,0 +1,18 @@
+body {
+    background-image: url('burger.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar {
+    justify-content: center;
+}
+
+
+#cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
